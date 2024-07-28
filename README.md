@@ -70,7 +70,7 @@ According to the definition, the _natural logarithm_ of a random variable from a
 ## Usage
 
 ```javascript
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-skewness@esm/index.mjs';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-skewness@v0.2.2-esm/index.mjs';
 ```
 
 #### skewness( mu, sigma )
@@ -135,7 +135,7 @@ y = skewness( 0.0, -1.0 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-skewness@esm/index.mjs';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-skewness@v0.2.2-esm/index.mjs';
 
 var sigma;
 var mu;
